@@ -49,8 +49,5 @@ class counter1
             System.out.println(j);
                     
         }
-        void display()
-        {
-          System.out.println(i+j);  
-        }
+       
     }
